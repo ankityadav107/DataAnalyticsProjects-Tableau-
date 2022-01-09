@@ -1,30 +1,20 @@
 # Tableau-Projects
-Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
+Learnt Data Visualization and Data Analytics with Tableau by solving  Realistic Analytics Projects.
 
   <pre>
-  1. Amazon Shipping Analytics    
-  2. Tesla Stock Price            
-  3. UT Mart Sales Analytics            
+  1. Sales Insights Analytics             
+  2. UT Mart Sales Analytics            
   </pre>
-
-View all my Tableau-Projects Dashboards on my Tableau Public Profile link -
-https://public.tableau.com/profile/utkarsh.yadav6297#!/
-
-
 
 ## Screenshots
 
-### 1. Amazon Shipping Analytics Dashboard
+### 1. Sales Insights Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Amazon%20Shipping%20Analytics/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG" alt="SS 1"/>
+<img src="https://github.com/ankityadav107/Tableau-Projects/blob/50567dae260ac3f2426b17ae8b07222ad36fe66b/SalesInsights/Screenshots/Dashboard.PNG" alt="SS 1"/>
 
-### 2. Tesla Stock Price Dashboard
+### 2. UT Mart Sales Analytics Dashboard
 
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/Tesla%20Stock%20Price/Sceenshots/Tesla%20Analytics%20Image.PNG" alt="SS 2"/>
-
-### 3. UT Mart Sales Analytics Dashboard
-
-<img src="https://github.com/utkarsh-yadav1231/Tableau-Projects/blob/master/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales%20PNG.PNG" alt="SS 3"/>
+<img src="https://github.com/ankityadav107/Tableau-Projects/blob/ce3159b93e7e762525a937d639ef77ab6e673393/UT%20Mart%20Sales%20Analytics/Screenshots/UT%20Mart%20Sales.PNG" alt="SS 3"/>
 
 
 
@@ -51,8 +41,5 @@ https://public.tableau.com/profile/utkarsh.yadav6297#!/
   - Understood how to make use of the analytics pane including using trend lines
 
   - Understood how to use dashboard actions and create interactive dashboards.
-
-  - Learnt creating a dashboard which updates daily via google sheets.            
-
-  
+ 
   
