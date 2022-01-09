@@ -2,8 +2,7 @@
 Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic Analytics Projects.
 
   <pre>
-  1.Sales Insights Analytics               
-  2.UT Mart Sales Analytics            
+  Sales Insights Analytics                   
   </pre>
 
 
