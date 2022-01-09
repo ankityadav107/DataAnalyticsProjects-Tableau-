@@ -9,7 +9,7 @@ Learnt Data Visualization and Data Analytics with Tableau by solving 3 Realistic
 ## Screenshots
 
 
-### 1. SalesInsights Analytics Dashboard
+###  SalesInsights Analytics Dashboard
 
 <img src="https://github.com/ankityadav107/Tableau-Projects/blob/50567dae260ac3f2426b17ae8b07222ad36fe66b/SalesInsights/Screenshots/Dashboard.PNG" alt="SS 3"/>
 
